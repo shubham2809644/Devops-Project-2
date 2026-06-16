@@ -9,6 +9,10 @@
     <br> <label for="mobile"><b>Mobile Number</b></label> 
     <input type="tel" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
+
+    <br>
+    <label for="fathername"><b>Father's Name</b></label>
+    <input type="text" placeholder="Enter Father's Name" name="fathername" id="fathername" required>
    
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
